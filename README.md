@@ -1,2 +1,2 @@
-# marketingo
-marketinGO - web marketing things
+## $${\color{red}marketinGO}$$
+### web marketing related things
