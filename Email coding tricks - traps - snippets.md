@@ -6,3 +6,6 @@
 Your preheader text goes here 
 </div>
 ```
+- Keep the preheader between 85–100 characters to ensure consistent display.
+- Do not repeat the subject line.
+- Match the hidden text color to the email background.
